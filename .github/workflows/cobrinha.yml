@@ -38,9 +38,9 @@ jobs:
     steps:
       - name: generate-snake-game-from-github-contribution-grid
         id: snake-gif
-        uses: Platane/snk@master
+        uses: brunoaclemente/snk@master
         with:
-          github_user_name: platane
+          github_user_name: brunoaclemente
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
