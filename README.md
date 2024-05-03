@@ -1,6 +1,5 @@
 ### Olá, Eu sou o Bruno 👋
 
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/brunoaclemente">
